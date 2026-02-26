@@ -46,10 +46,6 @@ const data = {
                     url: "/dashboard/active-projects",
                 },
                 {
-                    title: "Video Intro",
-                    url: "/dashboard/video-intro",
-                },
-                {
                     title: "Verified Portfolio",
                     url: "/dashboard/portfolio",
                 },
@@ -103,11 +99,7 @@ export function AppSidebar({ ...props }) {
                 {
                     title: "Manage Jobs",
                     url: "/dashboard/recruiter/manage-jobs",
-                },
-                {
-                    title: "Project Generator",
-                    url: "/dashboard/recruiter/project-generator",
-                },
+                }
             ],
         },
         {

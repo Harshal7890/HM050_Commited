@@ -4,7 +4,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/ui/avatar";
 import { Badge } from "@/ui/badge";
 import { Button } from "@/ui/button";
 import { Select } from "@/ui/select";
-import { Search, Filter, MoreHorizontal, Mail, Calendar, Loader2, ExternalLink, FileText, CheckCircle2, Sparkles, Briefcase, GraduationCap, EyeOff, Lock, ShieldCheck, Zap, Users } from "lucide-react";
+import { Search, Phone, Filter, MoreHorizontal, Mail, Calendar, Loader2, ExternalLink, FileText, CheckCircle2, Sparkles, Briefcase, GraduationCap, EyeOff, Lock, ShieldCheck, Zap, Users } from "lucide-react";
 import { Input } from "@/ui/input";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/ui/dropdown-menu";
 import { useSearchParams } from 'react-router-dom';
