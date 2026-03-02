@@ -26,13 +26,8 @@ DevDrop is a modern, AI-enhanced recruitment platform designed to bridge the gap
 ✔ *Secure Authentication* - Role-based access control via Clerk.  
 
 ---
-## *🌍 Deployed URL*
-🔗 Live Demo Link: https://so-hired-commited-gfg-pccoe.vercel.app/
 
 ---
-
-## *🎥 Demo Video*
-📽️ Watch the Walkthrough: https://drive.google.com/file/d/1cfY22CRpX7jXh92ncrW1haP6agj9ixS7/view?usp=drive_link
 
 ---
 
