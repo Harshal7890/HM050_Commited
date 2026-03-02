@@ -1,7 +1,7 @@
-# *SoHired - AI-Powered Recruitment Platform*
+# *DevDrop - AI-Powered Recruitment Platform*
 
 ## *📌 Purpose of the Application*
-SoHired is a modern, AI-enhanced recruitment platform designed to bridge the gap between talented candidates and innovative companies. It streamlines the hiring process by integrating video introductions and intelligent automated analysis.
+DevDrop is a modern, AI-enhanced recruitment platform designed to bridge the gap between talented candidates and innovative companies. It streamlines the hiring process by integrating video introductions and intelligent automated analysis.
 
 ### *How It Works?*
 - *Candidates* record 30-second video pitches and apply to jobs with a single click.
@@ -62,8 +62,8 @@ SoHired is a modern, AI-enhanced recruitment platform designed to bridge the gap
 1. *Fork the Repository* - Click the "Fork" button on GitHub.
 2. *Clone the Repository*
    bash
-   git clone https://github.com/Harshal7890/SoHired-Commited-GFG-PCCOE.git
-   cd sohired
+   git clone https://github.com/Harshal7890/DevDrop-Commited-GFG-PCCOE.git
+   cd devdrop
    
 3. *Install Dependencies*
    bash
@@ -105,5 +105,5 @@ This project is licensed under the *MIT License*.
 
 ---
 
-🚀 *Thank You for Using SoHired!*  
+🚀 *Thank You for Using DevDrop!*  
 We hope this project revolutionizes your hiring experience. 💙
